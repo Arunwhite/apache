@@ -3,7 +3,7 @@
 Build and Run the Docker Container
 
 Build the Docker image:
-docker build -t apache.
+docker build -t apache .
 
 
 Run the Docker container:
